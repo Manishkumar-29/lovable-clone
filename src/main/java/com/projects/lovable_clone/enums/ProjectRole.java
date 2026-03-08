@@ -1,4 +1,4 @@
-package com.codingshuttle.projects.lovable_clone.enums;
+package com.projects.lovable_clone.enums;
 
 public enum ProjectRole {
     EDITOR, VIEWER
